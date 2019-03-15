@@ -1,0 +1,6 @@
+framework module DemoWorking {
+  umbrella header "DemoWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

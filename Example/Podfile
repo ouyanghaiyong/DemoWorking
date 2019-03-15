@@ -4,7 +4,7 @@ platform :ios, '8.0'
 
 target 'DemoWorking_Example' do
   pod 'DemoWorking', :path => '../'
-
+#代表是本地的文件
   target 'DemoWorking_Tests' do
     inherit! :search_paths
 

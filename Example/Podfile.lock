@@ -1,0 +1,16 @@
+PODS:
+  - DemoWorking (0.1.0)
+
+DEPENDENCIES:
+  - DemoWorking (from `../`)
+
+EXTERNAL SOURCES:
+  DemoWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoWorking: 2237d192ab8e5bd16824581f8338299286441a8b
+
+PODFILE CHECKSUM: 5831916b0d017eba50d78821197561ddbc9ac846
+
+COCOAPODS: 1.6.1
